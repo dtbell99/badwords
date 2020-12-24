@@ -24,9 +24,9 @@
     "badwords-list": "^1.0.0"
   },
   "devDependencies": {
-    "better-assert": "1.0.0",
-    "documentation": "^5.3.3",
-    "mocha": "^5.2.0"
+    "better-assert": "1.0.2",
+    "documentation": "^13.1.0",
+    "mocha": "^8.2.1"
   },
   "author": "Mike P.",
   "license": "MIT",
